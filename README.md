@@ -1,4 +1,4 @@
-# policy
+# Datenschutzrichtlinien
 ## 1. Welche Information werden gesammelt
 Die App Sammelt keine persönlichen Daten.
 
